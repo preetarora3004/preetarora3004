@@ -22,4 +22,4 @@ I build 🚀 scalable backend systems with 💻 modern web technologies, focusin
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/preetarora3004"><img src="https://github-readme-stats.vercel.app/api?username=preetarora3004&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&show_icons=true" alt="preetarora3004's GitHub stats" /></a>
+<a href="http://www.github.com/preetarora3004"><img src="https://github-readme-streak-stats.herokuapp.com/?user=preetarora3004&stroke=ffffff&background=1c1917&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
